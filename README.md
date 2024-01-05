@@ -1,4 +1,1 @@
 
-🚀 Welcome to my GitHub profile! 🚀 : Myself Darshan Gowda having a seasoned professional with 1.5 years of hands-on experience in Automation Testing.
-🛠 Tech Stack Mastery: My proficiency revolves around the powerful trio of Java, Selenium, and SQL, forming the backbone of my Automation Testing endeavors. With a keen eye for detail and a passion for precision, I've successfully crafted and executed comprehensive test scripts, ensuring the robustness of various software applications.I am well-versed in implementing CICD pipelines to facilitate rapid and reliable code deployment. 
-🔧 Tool Proficiency:  From using Postman to streamline API testing to managing code repositories with finesse on GitHub, I ensure that the tools at my disposal are wielded to their maximum potential, contributing to a streamlined and collaborative development process.
